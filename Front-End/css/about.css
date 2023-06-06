@@ -1,0 +1,29 @@
+/* .section1 {
+  Styling untuk section 1
+}
+
+.section2 {
+  Styling untuk section 2
+} */
+
+.section3 {
+  /* Styling untuk section 3 */
+  display: flex;
+  justify-content: space-between;
+}
+
+.section3 .card {
+  width: 45%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* .section4 {
+  Styling untuk section 4
+} */
+
+/* .section4 img {
+  max-width: 100%;
+  height: auto;
+} */
